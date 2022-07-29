@@ -8,6 +8,6 @@
 		  res=x+y;
 		  System.out.println("sum of 20 & 30 is :"+res);
 		  System.out.println("Thank You & Have a Nice Day");
-
+                  system.out.println("Thank You for joining GCP Devops course");
 	 }
 }	 
